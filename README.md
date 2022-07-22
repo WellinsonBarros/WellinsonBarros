@@ -3,6 +3,7 @@
 - 📐 Arquiteto & Urbanista
 - 🔭 Atualmente trabalho com modelagem 3D
 - 🌱 Aprendendo programação
+- 🖥️ Estudante de Análise e Desenvolvimento de Sistemas
 
 ##
 
